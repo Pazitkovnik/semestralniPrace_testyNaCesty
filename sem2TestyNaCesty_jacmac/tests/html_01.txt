@@ -1,0 +1,278 @@
+﻿testName=html1
+testType=Informatika
+testQuestionQuant=20
+testDifficulty=3
+
+{
+question=Jak je formátovaný CSS komentář: 
+type=Informatika
+[
+;; komentář
+# komentář
+/* komentář */
+// komentář
+]
+correctAnswer=3
+points=1
+}
+
+{
+question=Povinnými atributy elementu img jsou?
+type=Informatika
+[
+href a title
+src a title
+href a alt
+src a alt
+]
+correctAnswer=4
+points=1
+}
+
+{
+question=Krátkou citaci vyznačujeme elementem?
+type=Informatika
+[
+<cite>
+<quote>
+<q>
+<quotation>
+]
+correctAnswer=3
+points=1
+}
+
+{
+question=Správná značka pro vynucený konec řádku v XHTML je?
+type=Informatika
+[
+<br />
+<br>
+<break />
+<br>
+]
+correctAnswer=1
+points=1
+}
+
+{
+question=Co je spravne zapsano?
+type=Informatika
+[
+<Img />
+<img />
+<IMG />
+<Img/>
+]
+correctAnswer=2
+points=1
+}
+
+{
+question=Externí CSS připojujeme elementem?
+type=Informatika
+[
+<cascade>
+<link>
+<css>
+<style>
+]
+correctAnswer=2
+points=1
+}
+
+{
+question=Tučný font nastavíme v CSS pomocí vlastnosti?
+type=Informatika
+[
+weight: heavy
+style: tucne jak podsvince
+font=bold
+font-weight:bold
+]
+correctAnswer=4
+points=1
+}
+
+{
+question=Kterým atributem jsou definovány inline styly?
+type=Informatika
+[
+font
+css
+class
+style
+]
+correctAnswer=4
+points=1
+}
+
+{
+question=Mezi nesémantické elementy XHTML patří?
+type=Informatika
+[
+<bold> a <italic>
+<div> a <span>
+<strong> a <em>
+<underline> a <blink>
+]
+correctAnswer=2
+points=1
+}
+
+{
+question=V které části HTML dokumentu umísťujeme odkaz na externí CSS?
+type=Informatika
+[
+Uvnitř elementu <head></head>
+Před elementem <html></html>
+Za elementem <head></head>
+Před elementem <head></head>
+]
+correctAnswer=1
+points=1
+}
+
+{
+question=Barva pozadí elementu se nastavuje vlastností?
+type=Informatika
+[
+color
+background-color
+bgcolor
+bgclr
+]
+correctAnswer=2
+points=1
+}
+
+{
+question=Obrázek je v XHTML vkládán elementem?
+type=Informatika
+[
+<img />
+<pic />
+<image />
+<figure />
+]
+correctAnswer=1
+points=1
+}
+
+{
+question=Barva textu se nastavuje zápisem?
+type=Informatika
+[
+color:
+text-color:
+font-color:
+fgcolor:
+]
+correctAnswer=1
+points=1
+}
+
+{
+question=Správně zapsaný atribut pro šířku v XHTML je?
+type=Informatika
+[
+Width=80
+width=80
+width="80"
+WIDTH="80"
+]
+correctAnswer=3
+points=1
+}
+
+{
+question=Zkrata XHTML znamená?
+type=Informatika
+[
+EXtreme HyperText Markup Language
+EXtensible HyperText Markup Language
+EXtensible HyperText Marking Language
+EXtra Hyperlinks and Text Markup Language
+]
+correctAnswer=2
+points=1
+}
+
+{
+question=Font elementu se nastavuje sdruženou vlastností?
+type=Informatika
+[
+font=
+font-setup:
+f:
+font:
+]
+correctAnswer=4
+points=1
+}
+
+{
+question=Kterým atributem je zadávána hodnota URL vloženého obrázku?
+type=Informatika
+[
+href
+http
+src
+url
+]
+correctAnswer=3
+points=1
+}
+
+{
+question=Velká římská čísla pro seznam nastavíme pomocí parametru?
+type=Informatika
+[
+list-style-type: upper-latin
+list-style-type: upper-roman
+list-style-format: roman-upperoslav
+list-style-type: roman-upper
+]
+correctAnswer=2
+points=1
+}
+
+
+{
+question=Zkratka HTML znamená?
+type=Informatika
+[
+Home Tool Markup Language
+Hovězí Tatarák Marinovaný v Lázni
+HyperTextMarkup Language
+Hyperlinks Text and Multimedia Language
+]
+correctAnswer=3
+points=1
+}
+
+{
+question=CSS znamená?
+type=Informatika
+[
+Cascading Style Sheets
+Colorful Style Sheets
+Computer Style Sheets
+Creative Style Sheets
+]
+correctAnswer=1
+points=1
+}
+
+{
+question=Povinným vnořeným elementem <head> je?
+type=Informatika
+[
+<title>
+<doctype>
+<meta>
+<body>
+]
+correctAnswer=1
+points=1
+}

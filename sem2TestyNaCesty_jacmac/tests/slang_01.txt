@@ -1,0 +1,69 @@
+﻿testName=slang1
+testType=Čeština
+testQuestionQuant=-1
+testDifficulty=10
+
+{
+question=Fligna je:
+type=Čeština
+[
+lest
+nárok
+ústupek
+kuřivo
+]
+correctAnswer=3
+points=1
+}
+
+{
+question=Plonkovní je:
+type=Čeština
+[
+vadný
+přebytečný
+venkovský
+otravný
+]
+correctAnswer=2
+points=1
+}
+
+{
+question=Ucho je člověk:
+type=Čeština
+[
+neslyšící
+namyšlený
+zpupný
+nezkušený
+]
+correctAnswer=3
+points=1
+}
+
+{
+question=Ponk je:
+type=Čeština
+[
+malý trezor
+signalizační přístroj
+bedna na odpadky
+pracovní stůl
+]
+correctAnswer=4
+points=1
+}
+
+{
+question=Cajk je:
+type=Čeština
+[
+záhonek
+branka
+postel
+nářadí
+]
+correctAnswer=4
+points=1
+}

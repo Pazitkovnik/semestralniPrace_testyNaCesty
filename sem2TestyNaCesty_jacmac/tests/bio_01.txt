@@ -1,0 +1,125 @@
+﻿testName=bio1
+testType=Biologie
+testQuestionQuant=-1
+testDifficulty=10
+
+{
+question=Kolika zuby je tvořen tzv. trvalý chrup?
+type=Biologie
+[
+24
+28
+32
+]
+correctAnswer=3
+points=1
+}
+
+{
+question=Středoušní kůstky tvoří: 
+type=Biologie
+[
+blanitý labyrint, kostěný labyrint, kladívko
+třmínek, kovadlinka, kladívko
+hlemýžď, kladívko, kovadlinka
+]
+correctAnswer=2
+points=1
+}
+
+{
+question=Kolik litrů primární moči se přefiltruje v průběhu 24 hodin?
+type=Biologie
+[
+1,7 - 2,0 l
+17 - 20 l
+170 - 200 l
+]
+correctAnswer=3
+points=1
+}
+
+{
+question=Hormony, které umožňují růst člověka, produkuje žláza: 
+type=Biologie
+[
+štítná žláza
+podvěsek mozkový
+šišinka
+]
+correctAnswer=2
+points=1
+}
+
+{
+question=Fyziologické těhotenství trvá: 
+type=Biologie
+[
+35 týdnů
+40 týdnů
+43 týdnů
+]
+correctAnswer=2
+points=1
+}
+
+{
+question=Mozková buňka se nazývá: 
+type=Biologie
+[
+neuron
+nefron
+hormon
+]
+correctAnswer=1
+points=1
+}
+
+
+{
+question=Spojení mezi středním uchem a nosohltanem zabezpečuje:
+type=Biologie
+[
+bazilární membrána
+Cortiho orgán
+Eustachova trubice
+]
+correctAnswer=3
+points=1
+}
+
+{
+question=Strabismu se také jinak říká: 
+type=Biologie
+[
+šeroslepost
+šilhání
+tupozrakost
+]
+correctAnswer=2
+points=1
+}
+
+{
+question=Kolik je hrudních obratlů? 
+type=Biologie
+[
+5
+7
+12
+]
+correctAnswer=3
+points=1
+}
+
+{
+question=Jako leukocyty označujeme:
+type=Biologie
+[
+bílé krvinky
+červené krvinky
+krevní plazmu
+]
+correctAnswer=1
+points=1
+}

@@ -1,0 +1,69 @@
+﻿testName=mat1
+testType=Matematika
+testQuestionQuant=-1
+testDifficulty=10
+
+{
+question=V pravoúhlém lichoběžníku má jeden úhel velikost 102°. Vypočítej velikost ostatních úhlů
+type=Matematika
+[
+76°, 94°
+80°, 88°
+78°, 90°
+87°, 90°
+]
+correctAnswer=3
+points=1
+}
+
+{
+question=V lichoběžníku jsou úhly při základně při vrcholu A 48°52´, při vrcholu B 112°36´. Vypočítej ostatní úhly.
+type=Matematika
+[
+131°08´, 67°24´
+131°08´, 67°
+131°, 67°24´
+130°08´, 68°24´
+]
+correctAnswer=1
+points=1
+}
+
+{
+question=Délky strany obdélníku ABCD jsou 24 m a 13 m. Bod E je střed strany AB. Urči obsah obdélníku ABCD
+type=Matematika
+[
+212 m2
+312 m2
+310 m2
+302 m2
+]
+correctAnswer=2
+points=1
+}
+
+{
+question=Vypočítej obsah lichoběžníku ABCD, ve kterém je a = 7 m, c = 4 m, v = 0,6 m
+type=Matematika
+[
+33 cm2
+3,3 m2
+3 m2
+33 m2
+]
+correctAnswer=2
+points=1
+}
+
+{
+question=Délky strany obdélníku ABCD jsou 24 m a 13 m. Bod E je střed strany AB. Urči obsah trojúhelníku AED.
+type=Matematika
+[
+87 m2
+76 m2
+78 m2
+82 m2
+]
+correctAnswer=3
+points=1
+}

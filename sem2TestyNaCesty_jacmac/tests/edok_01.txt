@@ -1,0 +1,69 @@
+﻿testName=edok1
+testType=Typografie
+testQuestionQuant=-1
+testDifficulty=30
+
+{
+question=Vyberte správnou možnost: 
+type=Typografie
+[
+on - line
+on-line
+on- line
+on―line
+]
+correctAnswer=2
+points=1
+}
+
+{
+question=Vyberte správnou možnost?
+type=Typografie
+[
+"klasický" experiment
+„klasický“ experiment
+„klasický “ experiment
+„ klasický “ experiment
+]
+correctAnswer=2
+points=1
+}
+
+{
+question=Vyberte správnou možnost?
+type=Typografie
+[
+face ― to ― face
+face-to-face
+face - to - face
+face―to―face
+]
+correctAnswer=2
+points=1
+}
+
+{
+question=Vyberte správnou možnost?
+type=Typografie
+[
+100% výkon počítače
+100 % výkon počítače
+100.% výkon počítače
+100. % výkon počítače
+]
+correctAnswer=1
+points=1
+}
+
+{
+question=Vyberte správnou možnost?
+type=Typografie
+[
+nevhodné pro děti do 12-ti let
+nevhodné pro děti do 12 - ti let
+nevhodné pro děti do 12 let
+nevhodné pro děti do 12ti let
+]
+correctAnswer=3
+points=1
+}
